@@ -19,3 +19,5 @@
    ```bash
    python main.py
    ```
+
+   <img width="1461" height="908" alt="image" src="https://github.com/user-attachments/assets/1aeeca10-45f1-4398-8eca-d6bb66fbdd6c" />
