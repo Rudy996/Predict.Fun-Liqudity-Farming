@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-electron/
+__pycache__/
+*.pyc
+.env
+*.log
+data/
+write_sidebar.py
